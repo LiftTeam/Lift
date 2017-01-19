@@ -10,4 +10,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-*.umap
+#*.umap
