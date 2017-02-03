@@ -3,19 +3,6 @@
 	"EngineAssociation": "4.14",
 	"Category": "",
 	"Description": "",
-<<<<<<< HEAD
-<<<<<<< HEAD
-	"Modules": [
-		{
-			"Name": "Lift",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
-=======
->>>>>>> a0d93c39390523264657668b6b5e53d977ecfa97
-=======
->>>>>>> refs/remotes/origin/master
 	"Plugins": [
 		{
 			"Name": "VictoryBPLibrary",
