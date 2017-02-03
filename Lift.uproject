@@ -3,6 +3,7 @@
 	"EngineAssociation": "4.14",
 	"Category": "",
 	"Description": "",
+<<<<<<< HEAD
 	"Modules": [
 		{
 			"Name": "Lift",
@@ -10,6 +11,8 @@
 			"LoadingPhase": "Default"
 		}
 	],
+=======
+>>>>>>> a0d93c39390523264657668b6b5e53d977ecfa97
 	"Plugins": [
 		{
 			"Name": "VictoryBPLibrary",
