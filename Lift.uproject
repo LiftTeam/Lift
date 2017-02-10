@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.14",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Lift",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "VictoryBPLibrary",
