@@ -11,3 +11,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/InfinityBladeGrassLands/Maps/ElvenRuins_2.umap
+*.exe
+*.pdb
