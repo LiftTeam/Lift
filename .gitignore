@@ -1,13 +1,13 @@
 #Binaries
 DerivedDataCache
-#Intermediate
+Intermediate
 Saved
 *.VC.db
 *.opensdf
 *.opendb
-#*.sdf
-#*.sln
-#*.suo
+*.sdf
+*.sln
+*.suo
 *.xcodeproj
 *.xcworkspace
 Content/InfinityBladeGrassLands/Maps/ElvenRuins_2.umap
