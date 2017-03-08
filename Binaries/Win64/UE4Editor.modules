@@ -1,9 +1,9 @@
 {
 	"Changelist" : 3249277,
 	"CompatibleChangelist" : 3195953,
-	"BuildId" : "6bb5af5d-c97c-4a6b-b417-94642adaf73c",
+	"BuildId" : "",
 	"Modules" : 
 	{
-		"Lift" : "UE4Editor-Lift-779.dll"
+		"Lift" : "UE4Editor-Lift.dll"
 	}
 }

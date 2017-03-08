@@ -2,7 +2,7 @@
 	"TargetName" : "LiftEditor",
 	"Platform" : "Win64",
 	"Configuration" : "Development",
-	"BuildId" : "6bb5af5d-c97c-4a6b-b417-94642adaf73c",
+	"BuildId" : "",
 	"Version" : 
 	{
 		"MajorVersion" : 4,
@@ -16,15 +16,15 @@
 	"BuildProducts" :
 	[
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-Lift-779.dll",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-Lift.dll",
 			"Type" : "DynamicLibrary"
 		},
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-Lift-779.pdb",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-Lift.pdb",
 			"Type" : "SymbolFile"
 		},
 		{
-			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-Lift-779.lib",
+			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-Lift.lib",
 			"Type" : "ImportLibrary"
 		}
 	],
@@ -191,7 +191,7 @@
 			"Type" : "UFS"
 		},
 		{
-			"Path" : "$(EngineDir)/Plugins/VictoryPlugin/VictoryBPLibrary.uplugin",
+			"Path" : "$(EngineDir)/Plugins/VictoryPlugin/VictoryPlugin/VictoryBPLibrary.uplugin",
 			"Type" : "UFS"
 		},
 		{
