@@ -12,9 +12,9 @@
 	],
 	"Plugins": [
 		{
-			"Name": "VictoryBPLibrary",
+			"Name": "VictoryPlugin",
 			"Enabled": true,
-			"MarketplaceURL": "http://www.ue4code.com"
+			"MarketplaceURL": ""
 		}
 	]
 }
