@@ -1,4 +1,4 @@
-Binaries
+#Binaries
 DerivedDataCache
 Intermediate
 Saved
@@ -6,8 +6,10 @@ Saved
 *.opensdf
 *.opendb
 *.sdf
-*.sln
+#*.sln
 *.suo
 *.xcodeproj
 *.xcworkspace
-#*.umap
+*.exe
+*.pdb
+*.exp
