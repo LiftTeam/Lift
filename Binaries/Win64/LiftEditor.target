@@ -6,12 +6,13 @@
 	"Version" : 
 	{
 		"MajorVersion" : 4,
-		"MinorVersion" : 14,
-		"PatchVersion" : 3,
-		"Changelist" : 3249277,
-		"CompatibleChangelist" : 3195953,
+		"MinorVersion" : 15,
+		"PatchVersion" : 0,
+		"Changelist" : 3299760,
+		"CompatibleChangelist" : 0,
 		"IsLicenseeVersion" : 0,
-		"BranchName" : "++UE4+Release-4.14"
+		"IsPromotedBuild" : 1,
+		"BranchName" : "++UE4+Release-4.15"
 	},
 	"BuildProducts" :
 	[
@@ -26,6 +27,10 @@
 		{
 			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-Lift.lib",
 			"Type" : "ImportLibrary"
+		},
+		{
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor.modules",
+			"Type" : "RequiredResource"
 		}
 	],
 	"RuntimeDependencies" :
@@ -71,6 +76,14 @@
 			"Type" : "UFS"
 		},
 		{
+			"Path" : "$(EngineDir)/Plugins/Editor/FacialAnimation/FacialAnimation.uplugin",
+			"Type" : "UFS"
+		},
+		{
+			"Path" : "$(EngineDir)/Plugins/Editor/GameplayTagsEditor/GameplayTagsEditor.uplugin",
+			"Type" : "UFS"
+		},
+		{
 			"Path" : "$(EngineDir)/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin",
 			"Type" : "UFS"
 		},
@@ -108,6 +121,10 @@
 		},
 		{
 			"Path" : "$(EngineDir)/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin",
+			"Type" : "UFS"
+		},
+		{
+			"Path" : "$(EngineDir)/Plugins/Media/MfMedia/MfMedia.uplugin",
 			"Type" : "UFS"
 		},
 		{
@@ -159,6 +176,10 @@
 			"Type" : "UFS"
 		},
 		{
+			"Path" : "$(EngineDir)/Plugins/Runtime/LocationServicesBPLibrary/LocationServicesBPLibrary.uplugin",
+			"Type" : "UFS"
+		},
+		{
 			"Path" : "$(EngineDir)/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin",
 			"Type" : "UFS"
 		},
@@ -175,6 +196,10 @@
 			"Type" : "UFS"
 		},
 		{
+			"Path" : "$(EngineDir)/Plugins/Runtime/PhysXVehicles/PhysXVehicles.uplugin",
+			"Type" : "UFS"
+		},
+		{
 			"Path" : "$(EngineDir)/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin",
 			"Type" : "UFS"
 		},
@@ -184,14 +209,6 @@
 		},
 		{
 			"Path" : "$(EngineDir)/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin",
-			"Type" : "UFS"
-		},
-		{
-			"Path" : "$(EngineDir)/Plugins/Slate/SlateRemote/SlateRemote.uplugin",
-			"Type" : "UFS"
-		},
-		{
-			"Path" : "$(EngineDir)/Plugins/VictoryPlugin/VictoryPlugin/VictoryBPLibrary.uplugin",
 			"Type" : "UFS"
 		},
 		{
