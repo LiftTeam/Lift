@@ -15,11 +15,6 @@
 			"Name": "VictoryPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "http://www.ue4code.com"
-		},
-		{
-			"Name": "VictoryBPLibrary",
-			"Enabled": true,
-			"MarketplaceURL": "http://www.ue4code.com"
 		}
 	]
 }
