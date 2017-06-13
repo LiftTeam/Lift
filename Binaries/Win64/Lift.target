@@ -2,7 +2,7 @@
 	"TargetName" : "Lift",
 	"Platform" : "Win64",
 	"Configuration" : "Development",
-	"BuildId" : "78d1cd3d-b446-4358-8a70-82f3f7364b16",
+	"BuildId" : "a4c1ed36-f08a-4457-83a4-1ce03311cfd3",
 	"Version" : 
 	{
 		"MajorVersion" : 4,
@@ -127,7 +127,7 @@
 			"Type" : "UFS"
 		},
 		{
-			"Path" : "$(EngineDir)/Plugins/VictoryPlugin/VictoryBPLibrary.uplugin",
+			"Path" : "$(EngineDir)/Plugins/VictoryPlugin/VictoryPlugin.uplugin",
 			"Type" : "UFS"
 		},
 		{
